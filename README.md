@@ -1,2 +1,3 @@
-# 2019-08-22_pm-review
-Created with CodeSandbox
+## Further practice with passing props, mapping
+
+blog application, no styling, 
